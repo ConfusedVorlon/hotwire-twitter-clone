@@ -1,0 +1,2 @@
+redis: redis-server
+web: bin/rails s --binding=0.0.0.0
