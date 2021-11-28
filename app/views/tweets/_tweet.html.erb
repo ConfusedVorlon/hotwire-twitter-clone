@@ -7,6 +7,8 @@
       <%= button_to "Retweets (#{tweet.retweets_count})", tweet_retweet_path(tweet), method: :post %>
 
       <%= link_to "Edit", edit_tweet_path(tweet) %>
+      <br/>
+      <%= link_to "Test params link", {foo: "bar"} %>
     </div>
   </div>
 <% end %>
