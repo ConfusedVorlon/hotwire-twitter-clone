@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+demo for https://github.com/jumpstart-pro/jumpstart-pro/issues/131
 
-Things you may want to cover:
+'Configured domain doesn't apply to websocket/hotwire'
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+also, https://github.com/rails/rails/issues/41795
